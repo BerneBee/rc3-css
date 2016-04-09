@@ -26,10 +26,15 @@ color: green;
    font-style:italic;
 }
 
+
+
 .number-of-girls {
    color: pink;
 }
 
 .number-of-boys {
    color: lightblue;
+}
+ul.list-of-students li{
+   color:brown;
 }
