@@ -2,6 +2,10 @@
    color: red;
 }
 
+#my-age {
+   display: none;
+}
+
 li {
    color:blue;
 }
