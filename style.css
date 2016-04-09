@@ -27,7 +27,6 @@ color: green;
 }
 
 
-
 .number-of-girls {
    color: pink;
 }
@@ -41,3 +40,7 @@ ul.list-of-students li{
  section{
     background-color:maroon;
  }
+
+section:first-child{
+   background-color: blue;
+}
