@@ -6,6 +6,6 @@ li {
    color:blue;
 }
 
-.about-me {
+li.about-me {
 color: green;
 }
