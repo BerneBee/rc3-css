@@ -17,3 +17,7 @@ color: green;
 #where-i-want-to-live .location {
    color:yellow;
 }
+.number-of-students{
+   text-weight:bold;
+   font-style:italic;
+}
